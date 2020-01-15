@@ -1,7 +1,7 @@
 {
-  "name": "@thomasloven/round-slider",
+  "name": "@jiri.bires/round-slider",
   "version": "0.3.7",
-  "description": "",
+  "description": "A simple round slider webcomponent - [demo](https://rawcdn.githack.com/thomasloven/round-slider/master/example.html)",
   "main": "round-slider.js",
   "module": "src/main.js",
   "dependencies": {
@@ -18,7 +18,12 @@
     "watch": "rollup -w -c",
     "prepublishOnly": "rollup -c"
   },
-  "keywords": ["slider", "round-slider", "webcomponent", "litElement"],
+  "keywords": [
+    "slider",
+    "round-slider",
+    "webcomponent",
+    "litElement"
+  ],
   "author": "thomasloven",
   "license": "MIT",
   "files": [
@@ -26,7 +31,11 @@
     "src/main.js"
   ],
   "repository": {
-    "url": "https://github.com/thomasloven/round-slider.git",
+    "url": "git+https://github.com/thomasloven/round-slider.git",
     "type": "git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/thomasloven/round-slider/issues"
+  },
+  "homepage": "https://github.com/thomasloven/round-slider#readme"
 }
