@@ -1,6 +1,6 @@
 {
   "name": "@jiri.bires/round-slider",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "description": "A simple round slider webcomponent - [demo](https://rawcdn.githack.com/thomasloven/round-slider/master/example.html)",
   "main": "round-slider.js",
   "module": "src/main.js",
